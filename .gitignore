@@ -1,4 +1,7 @@
-.Rproj.user
+.rstudio
 .Rhistory
-.RData
-.Ruserdata
+*.bak
+Gemfile.lock
+_site
+.Rproj.user
+HeidiSeibold.github.io.Rproj

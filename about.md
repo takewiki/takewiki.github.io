@@ -1,15 +1,35 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Heidi and I am a PhD student in Biostatistics at UZH. I am
+interested in statistical learning, especially trees and forests, open science,
+reproducible research, R and teaching.  I am a core member of
+[OpenML](https://www.openml.org/), co-organizer of the [Zurich R User
+Meetup](http://www.meetup.com/Zurich-R-User-Group/) and assistant editor of the
+[Journal of Statistical Software (JSS)](https://www.jstatsoft.org).  In my free
+time I like dancing salsa, biking, hiking, sailing and most other outdoors
+activities.  On the non-active days I write this blog.  If you think I am an
+interesting person, check out my [GitHub](https://github.com/HeidiSeibold/)
+account and follow me on [Twitter](https://twitter.com/HeidiBaya).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I set up this blog using [knitr](yihui.name/knitr/),
+[servr](https://github.com/yihui/servr), [Jekyll](https://jekyllrb.com/),
+[Hyde](http://hyde.getpoole.com) and [RStudio](rstudio.com).  You can view the
+source code on
+[GitHub](https://github.com/HeidiSeibold/HeidiSeibold.github.io).  Installing
+all the parts needed to set up a blog like this can be tedious. That is why I
+use [Docker](https://www.docker.com/) and just start a container with the
+neccessary details installed.  See the
+[link](https://github.com/HeidiSeibold/HeidiSeibold.github.io/tree/master/_build)
+for the Dockerfile. 
+
+I also sometimes write for other blogs. You can find my OpenML posts on
+[medium](https://medium.com/@HeidiBaya) and my mlr posts on the [mlr
+blog](http://mlr-org.github.io/).
+
+For many more blogs on R and stats go to
+[R-bloggers](http://www.r-bloggers.com/) and
+[StatsBlogs](http://www.statsblogs.com/).
