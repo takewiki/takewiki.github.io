@@ -25,7 +25,5 @@ this post contains 3 sections
 
 ## Videos 视频教学区
 
-# package
-
-Check out the https://github.com/takewiki/learnr for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can  1 ask t them on [Jekyll Talk][jekyll-talk].
+## Interactive Shiny Components交互式Shiny组件
 
