@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "learnr package study tutorial!"
-date:   2018-06-01 02:17:24 +0800
+date:   2018-06-01 08:17:24 +0800
 categories: training
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
