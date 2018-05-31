@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "learnr package study tutorial!"
+title:  "learnr包学习日记"
 date:   2018-06-01 08:17:24 +0800
 categories: training
 tags: [ travel ]
@@ -19,9 +19,11 @@ this post contains 3 sections
 
 ### equations方程
 
-## section2
+## R code exerciese代码练习区
 
-## section3
+## Quiz & Questions测试问题区
+
+## Videos 视频教学区
 
 # package
 
