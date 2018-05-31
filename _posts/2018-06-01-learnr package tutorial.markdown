@@ -27,3 +27,11 @@ this post contains 3 sections
 
 ## Interactive Shiny Components交互式Shiny组件
 
+## Sample Expo
+
+https://jjallaire.shinyapps.io/learnr-tutorial-01-data-basics/
+
+## See Also
+1. http://r4ds.had.co.nz/
+1. http://r4ds.had.co.nz/
+
