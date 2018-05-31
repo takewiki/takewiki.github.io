@@ -31,7 +31,13 @@ this post contains 3 sections
 
 https://jjallaire.shinyapps.io/learnr-tutorial-01-data-basics/
 
+https://jjallaire.shinyapps.io/learnr-tutorial-03a-data-manip-filter/
+
+https://jjallaire.shinyapps.io/learnr-tutorial-03c-data-manip-summarise/
+
 ## See Also
 1. http://r4ds.had.co.nz/
 1. http://r4ds.had.co.nz/
+1. https://rmarkdown.rstudio.com/authoring_shiny_prerendered.html
+1. https://rstudio.github.io/learnr/index.html
 
