@@ -8,7 +8,15 @@ categories: training
 learnr package try to turn any rmarkdown file into an interactive tutorial.
 this post contains 3 sections
 
-## secion1
+## textual Contant
+
+### Narrative
+
+### figures
+
+### illustrations
+
+### equations
 
 ## section2
 
