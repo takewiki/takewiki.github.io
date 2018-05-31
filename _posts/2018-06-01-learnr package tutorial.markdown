@@ -10,13 +10,13 @@ this post contains 3 sections
 
 ## textual Contant
 
-### Narrative
+### Narrative记叙文
 
-### figures
+### figures表
 
-### illustrations
+### illustrations插图
 
-### equations
+### equations方程
 
 ## section2
 
