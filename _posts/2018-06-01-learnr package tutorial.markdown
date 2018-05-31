@@ -16,5 +16,5 @@ this post contains 3 sections
 
 # package
 
-Check out the https://github.com/takewiki/learnr for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the https://github.com/takewiki/learnr for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask t them on [Jekyll Talk][jekyll-talk].
 
