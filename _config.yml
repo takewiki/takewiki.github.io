@@ -11,7 +11,7 @@ email: hulilei@takewiki.com
 description: > # this means to ignore newlines until "baseurl:"
   用于记录关于takewiki的技术文章并将托管在github.io上.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://takewiki.com" # the base hostname & protocol for your site
+url: "https://takewiki.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb remark the file.
 github_username:  takewiki
 

@@ -3,6 +3,7 @@ layout: post
 title:  "learnr package study tutorial!"
 date:   2018-06-01 08:17:24 +0800
 categories: training
+tags: [ blog, travel ]
 ---
 # Overview
 learnr package try to turn any rmarkdown file into an interactive tutorial.
