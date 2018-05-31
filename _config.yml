@@ -8,6 +8,7 @@
 # Site settings
 title: takewiki's blog on github.io
 email: hulilei@takewiki.com
+theme: jekyll-theme-leap-day
 description: > # this means to ignore newlines until "baseurl:"
   用于记录关于takewiki的技术文章并将托管在github.io上.
 baseurl: "" # the subpath of your site, e.g. /blog
